@@ -1,0 +1,8 @@
+.myinput {
+    padding: 5px 15px;
+    color: #ccc;
+    font-size: 24px;
+    background: darkslategrey;
+    border: 1px solid rgb(13, 46, 46);
+    cursor: pointer;
+}

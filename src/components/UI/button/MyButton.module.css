@@ -1,0 +1,8 @@
+.myBtn {
+    padding: 4px 15px;
+    color: teal;
+    font-size: 24px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+}
